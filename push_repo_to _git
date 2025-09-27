@@ -1,0 +1,5 @@
+command 1 : git add .
+command 2 : git commit -m "This is a commit message"
+command 3 : git branch -M main
+command 4 : git push -u origin main
+command 5 : git push // to push latest updates
